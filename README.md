@@ -1,2 +1,2 @@
 # Website
-## This is my digitsl resume website
+## This is my digital resume website
