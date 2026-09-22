@@ -5,4 +5,4 @@
 ## will eventually include a theme 
 ## options : hacker/ linux
 ## design portfolio and cyber security 
-##will meed go find a way to keep design up to date
+## will meed go find a way to keep design up to date
